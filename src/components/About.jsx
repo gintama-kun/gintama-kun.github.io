@@ -12,13 +12,13 @@ function About() {
                 <div className="mt-4 mb-5">
                     <h4 className="about-section">💻 Scripter & Concept</h4>
                     <p>
-                        <a className="about-content" href="https://www.instagram.com/syafffwan/" target="_blank" rel="noreferrer">@MuhammadSigitAlHafidz</a>
+                        <a className="about-content" href="https://www.instagram.com/mhmdsigittalhfz/" target="_blank" rel="noreferrer">@MuhammadSigitAlHafidz</a>
                     </p>
                 </div>
                 <div className="mt-3">
                     <h4 className="about-section">🎨 Artist</h4>   
                     <p>
-                        <a className="about-content" href="https://www.instagram.com/fiq.un/" target="_blank" rel="noreferrer">@mhmdsigitt</a>
+                        <a className="about-content" href="https://www.instagram.com/mhmdsigittalhfz/" target="_blank" rel="noreferrer">@mhmdsigitt</a>
                     </p>
                 </div>
             </Container>
